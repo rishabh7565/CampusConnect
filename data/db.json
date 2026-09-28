@@ -1,0 +1,35 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "CodeSprint 2026",
+      "category": "Coding",
+      "date": "2026-10-10",
+      "time": "10:00 AM",
+      "venue": "Innovation Lab",
+      "description": "A fast-paced coding challenge where teams solve real-world problems and build creative solutions.",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Design Jam",
+      "category": "Design",
+      "date": "2026-10-18",
+      "time": "2:00 PM",
+      "venue": "Design Studio",
+      "description": "Explore UI/UX ideas, typography and visual storytelling through a fun design sprint.",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Tech Talk: AI & The Future",
+      "category": "Seminar",
+      "date": "2026-10-25",
+      "time": "11:30 AM",
+      "venue": "Seminar Hall",
+      "description": "An interactive session on practical AI, emerging technologies and careers in tech.",
+      "featured": false
+    }
+  ],
+  "registrations": []
+}
